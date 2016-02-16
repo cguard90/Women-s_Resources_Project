@@ -1,2 +1,2 @@
 # nyc-womens-resources
-  This was our first full terminal app which pulled information from an API, and we had to then filter the results into a format that would be able to be accessed by a User. We were only given 3 hours to complete this project, and this was prior to our introduction to Rails. 
+  This was our first full terminal app which pulled information from an API, and we had to then filter the results into a format that would be able to be accessed by a User. We were only given 3 hours to complete this project, and this was prior to our introduction to Rails, or Sinatra. I am just including this as a reference point of how much was learned in such a short period of time. 
